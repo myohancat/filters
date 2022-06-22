@@ -1,9 +1,9 @@
 # Filter Study
 
 [TODO]
-lowpass filter
-mean filter
-median filter
+lowpass filter.
+mean filter.
+median filter.
 .
 .
 .
